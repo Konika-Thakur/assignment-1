@@ -1,6 +1,6 @@
-# 📄 Document Buddy App
+# 📄 Doc Talk App
 
-![Document Buddy App](sct.png)
+![Screenshot 2025-01-02 190101](https://github.com/user-attachments/assets/50c4bc18-19c2-4ac8-9a69-634f34c175f9)
 
 **Document Buddy App** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
 
